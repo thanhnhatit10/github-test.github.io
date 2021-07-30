@@ -43,3 +43,5 @@
 - Nhánh mới github: Tạo từ github
 - Kéo một nhánh từ github: git pull
 - Đẩy nhánh lên github: git push origin <ten nhánh>
+- Trang github: github page bạn cần tạo một tên đặc biệt theo sau
+  là .github.io
