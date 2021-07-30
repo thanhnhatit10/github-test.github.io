@@ -11,4 +11,11 @@
 - Khi thực hiện những thay đổi nhỏ, mà không cần sửa dụng lại môi trường dàn dựng, có thể thay đổi trực tiếp mà bỏ qua môi trường dàn dựng
 
 - Kiểm tra sự thay đổi một file nào đó: git status --short
-- Kiểm tra sự cam kết git : git log
+- Kiểm tra sự cam kết git : git log (nhật kí thay đổi)
+- Trợ giúp git : git -help , git command --help , git help --all
+
+- Nhánh git (git branch): Được hiểu là làm viẹc trên một nhánh mới mà không ảnh hưởng đến nhánh chính, và có thể hợp nhất với nhánh chính.
+  - Thêm một nhánh mới : git branch <ten nhánh mới>
+  - Xác nhận đã tạo một branch: git branch
+  - Di chuyển từ branch sang nhánh khác: git checkout <ten nhánh>
+  -
