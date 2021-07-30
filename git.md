@@ -1,3 +1,5 @@
+// Hưỡng dẫn sửa dụng Git.
+
 - Kiểm tra version của: git --version
 - Cấu hình cho git:
 
@@ -22,3 +24,10 @@
   - tạo ra một nhánh mới khẩn cấp: git checkout -b <ten nhánh>
   - Hợp nhất các nhánh lại: git merge <ten nhánh cần hợp nhất>
   - Xoá nhánh git : git branch -d <ten nhánh cần xoá >
+
+// Git và Github.
+
+- Đăng kí tài khoản github
+- Tạo repository
+- Đẩy kho lưu trữ cục bộ lên github
+  - Đẩy lên kho lưu trữ : git remote add origin <URL>
