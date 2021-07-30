@@ -38,3 +38,7 @@
   - Pull là sự kết hợp giữa fetch(tải về) và merge(hợp nhất);
   - Tải mã nguồn về : git fetch origin --> origin/master
   - Hợp nhất mã nguồn : git merge origin/master
+  - Git pull: thay thế cho fetch và merge sửa dụng để kéo tất cả các thay đổi từ kho lưu trữ về nhánh bạn đang làm việc
+- Đẩy lên github: github push <ten nhánh>
+- Nhánh mới github: Tạo từ github
+- Kéo một nhánh từ github: git pull
