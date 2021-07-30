@@ -31,3 +31,4 @@
 - Tạo repository
 - Đẩy kho lưu trữ cục bộ lên github
   - Đẩy lên kho lưu trữ : git remote add origin <URL>
+  - Đẩy nhánh của mình đến URL gốc và làm nhánh mặc định : git push --set -u origin master
