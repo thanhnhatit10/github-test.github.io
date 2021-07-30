@@ -30,5 +30,9 @@
 - Đăng kí tài khoản github
 - Tạo repository
 - Đẩy kho lưu trữ cục bộ lên github
+
   - Đẩy lên kho lưu trữ : git remote add origin <URL>
   - Đẩy nhánh của mình đến URL gốc và làm nhánh mặc định : git push --set -u origin master
+
+- Pull from github (git pull):
+  - Pull là sự kết hợp giữa fetch(tải về) và merge(hợp nhất);
