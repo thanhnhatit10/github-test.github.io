@@ -20,4 +20,5 @@
   - Di chuyển từ branch sang nhánh khác: git checkout <ten nhánh>
   - sửa dụng -b tuỳ chọn bật checkout sẽ tạo ta một nhánh mới và di chuyển đến nó nếu nó không tồn tại.
   - tạo ra một nhánh mới khẩn cấp: git checkout -b <ten nhánh>
-  -
+  - Hợp nhất các nhánh lại: git merge <ten nhánh cần hợp nhất>
+  - Xoá nhánh git : git branch -d <ten nhánh cần xoá >
